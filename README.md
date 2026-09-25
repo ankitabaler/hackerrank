@@ -6,7 +6,7 @@ This repository serves as a practical portfolio demonstrating solution implement
 
 ## 👤 Profile & Portfolio Verification
 
-- **HackerRank Profile:** https://www.hackerrank.com/profile/balerankita
+- **HackerRank Profile:** https://www.hackerrank.com/profile/balerankita   
 - **Earned Badge:** 3-Star Problem Solving Badge 
 - **Current Total Score:** 205 Points
 
