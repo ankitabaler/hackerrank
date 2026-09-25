@@ -43,3 +43,11 @@ Solving these challenges on HackerRank highlights the vital balance between raw 
 Optimizing algorithms requires picking the appropriate data structures and math shortcuts. For instance, in **Diagonal Difference**, computing both main diagonals within a single loop reduces computational overhead to a strict linear time bound of $O(N)$ without allocating secondary matrices. Similarly, using bitwise operations (XOR) and modulo indexing in **Dynamic Array** yields seamless $O(1)$ dynamic bucket lookup operations. In pattern-matching challenges like **Sparse Arrays**, moving from direct string array searching ($O(Q \cdot N)$) to hash-table frequency maps (`std::unordered_map`) reduces query times to average $O(1)$ lookups.
 
 Mastering these core efficiency trade-offs builds a strong engineering foundation for designing high-performance, real-world software applications.
+
+Complexity Analysis Table: Summarize the Time and Space complexity for each of the 5 problems:
+Problem Name        Time Complexity      Space Complexity
+Diagonal Difference    O(N)                  O(1)
+Dynamic Array          O(N + Q)              O(N)
+Time Conversion        O(1)                  O(1)
+Compare the Triplets   O(1)                  O(1)
+Sparse Arrays          O(N + Q)             O(N)
