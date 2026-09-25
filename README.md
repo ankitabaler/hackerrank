@@ -13,8 +13,7 @@ This repository serves as a practical portfolio demonstrating solution implement
 ---
 
 ## 🏆 Badge Evidence
-
-![HackerRank 3-Star Badge](https://via.placeholder.com/600x200?text=Insert+Your+HackerRank+Profile+Screenshot+Here)
+https://www.hackerrank.com/profile/balerankita
 
 *Note: Replace the image link above with your actual screenshot or upload the image directly to your GitHub repository and link it here (e.g., `![3-Star Badge](./screenshots/3-star-badge.png)`).*
 
